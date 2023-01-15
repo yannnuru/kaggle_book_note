@@ -1,6 +1,6 @@
 # 除外ファイル
 .vscode/
-.venv/
+venv/
 .outputs/
 __pycache__/
 data/
